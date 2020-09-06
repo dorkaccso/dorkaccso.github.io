@@ -1,0 +1,12 @@
+@font-face {
+    font-family: vekonybetu;
+    src: url(Quicksand-VariableFont_wght.ttf);
+}
+
+p {
+    font-family: vekonybetu;
+}
+
+.foszoveg {
+    font-size: 30px;
+}
